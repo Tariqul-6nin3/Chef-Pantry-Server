@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://i.postimg.cc/0yxT9mJV/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "chef_name": "Amina Ibrahim",
+    "chef_quality": "",
+    "years_of_experience": 10,
+    "likes": 2300,
+    "rating": 4.5,
+    "number_of_recipes": 75
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://i.postimg.cc/0yxT9mJV/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "chef_name": "Kwame Nkrumah",
+    "years_of_experience": 8,
+    "likes": 1500,
+    "rating": 4.2,
+    "number_of_recipes": 60
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://i.postimg.cc/0yxT9mJV/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "chef_name": "Fatima Al-Majid",
+    "years_of_experience": 12,
+    "likes": 3000,
+    "rating": 4.8,
+    "number_of_recipes": 90
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://i.postimg.cc/0yxT9mJV/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "chef_name": "Abdullahi Ali",
+    "years_of_experience": 7,
+    "likes": 1200,
+    "rating": 4.1,
+    "number_of_recipes": 50
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://i.postimg.cc/0yxT9mJV/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "chef_name": "Kadija Toure",
+    "years_of_experience": 15,
+    "likes": 4500,
+    "rating": 4.9,
+    "number_of_recipes": 100
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i.postimg.cc/0yxT9mJV/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "chef_name": "Bakari Mbeki",
+    "years_of_experience": 9,
+    "likes": 1800,
+    "rating": 4.3,
+    "number_of_recipes": 70
+  }
+]
