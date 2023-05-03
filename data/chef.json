@@ -7,7 +7,60 @@
     "years_of_experience": 10,
     "likes": 2300,
     "rating": 4.5,
-    "number_of_recipes": 75
+    "number_of_recipes": 75,
+    "recipe": [
+      {
+        "id": 1,
+        "recipe_picture": "https://example.com/recipe1_picture.jpg",
+        "recipe_name": "Chicken Alfredo",
+        "ingredients": [
+          "8 oz fettuccine",
+          "2 tbsp butter",
+          "1 lb boneless chicken breasts, sliced",
+          "2 cloves garlic, minced",
+          "1 cup heavy cream",
+          "1/2 cup grated parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Cook fettuccine in a large pot of boiling salted water until al dente. Drain and reserve 1 cup of pasta water.\n2. In a large skillet, melt butter over medium heat. Add chicken and cook until browned and cooked through, about 5-7 minutes.\n3. Add garlic to the skillet and cook for 1 minute.\n4. Add heavy cream to the skillet and bring to a simmer. Cook for 5 minutes, stirring frequently.\n5. Add parmesan cheese to the skillet and stir until melted and combined.\n6. Add cooked fettuccine to the skillet and toss to coat with the sauce. If the pasta seems dry, add some of the reserved pasta water.\n7. Serve immediately, garnished with additional parmesan cheese and black pepper.",
+        "rating": 4.8
+      },
+      {
+        "id": 2,
+        "recipe_picture": "https://example.com/recipe2_picture.jpg",
+        "recipe_name": "Beef Stir Fry",
+        "ingredients": [
+          "1 lb flank steak, thinly sliced",
+          "1/2 cup soy sauce",
+          "1 tbsp honey",
+          "1 tbsp cornstarch",
+          "2 tbsp vegetable oil",
+          "3 cloves garlic, minced",
+          "1 tbsp grated ginger",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 onion, sliced",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, cornstarch, and 1/4 cup water.\n2. In a large skillet or wok, heat vegetable oil over high heat. Add beef and cook until browned and cooked through, about 5-7 minutes. Remove beef from skillet and set aside.\n3. Add garlic and ginger to the skillet and cook for 1 minute.\n4. Add bell peppers and onion to the skillet and cook until softened, about 3-5 minutes.\n5. Add beef back to the skillet along with the soy sauce mixture. Cook for 2-3 minutes, stirring frequently, until the sauce has thickened and coated the beef and vegetables.\n6. Serve immediately, over rice or noodles if desired.",
+        "rating": 4.6
+      },
+      {
+        "id": 3,
+        "recipe_picture": "https://example.com/recipe3_picture.jpg",
+        "recipe_name": "Roasted Salmon with Vegetables",
+        "ingredients": [
+          "4 salmon fillets",
+          "1 lb asparagus",
+          "1 pint cherry tomatoes",
+          "1/4 cup olive oil",
+          "2 cloves garlic, minced",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Preheat the oven to 400°F.\n2. Place the asparagus and cherry tomatoes on a baking sheet. Drizzle with olive oil and season with salt and pepper.\n3. Roast the vegetables for 10 minutes.\n4. Season the salmon fillets with salt and pepper.\n5. Heat the remaining olive oil in a large skillet over medium-high heat. Add the salmon fillets, skin-side down, and cook for 3-4 minutes. Flip the fillets and cook for an additional 3-4 minutes, or until cooked through.\n6. Serve the salmon fillets with the roasted vegetables.",
+        "rating": 4.5
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,8 +68,57 @@
     "chef_name": "Kwame Nkrumah",
     "years_of_experience": 8,
     "likes": 1500,
-    "rating": 4.2,
-    "number_of_recipes": 60
+    "rating": 4,
+    "number_of_recipes": 60,
+    "recipe": [
+      {
+        "id": 4,
+        "recipe_picture": "https://example.com/recipe4_picture.jpg",
+        "recipe_name": "Vegetable Curry",
+        "ingredients": [
+          "1 onion, chopped",
+          "1 red bell pepper, chopped",
+          "1 yellow bell pepper, chopped",
+          "2 carrots, chopped",
+          "2 cups vegetable broth",
+          "1 can (14 oz) coconut milk",
+          "2 tbsp curry powder",
+          "1 tsp ground turmeric",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. In a large pot, heat some oil over medium-high heat. Add the onion and cook until softened, about 5 minutes.\n2. Add the bell peppers and carrots to the pot and cook for an additional 5 minutes.\n3. Add the vegetable broth, coconut milk, curry powder, turmeric, salt, and pepper to the pot. Stir to combine.\n4. Bring the mixture to a boil and then reduce the heat to low. Simmer for 20-25 minutes, or until the vegetables are tender.\n5. Serve the curry over rice or with naan bread.",
+        "rating": 4.2
+      },
+      {
+        "id": 5,
+        "recipe_picture": "https://example.com/recipe5_picture.jpg",
+        "recipe_name": "Classic Margherita Pizza",
+        "ingredients": [
+          "1 lb pizza dough",
+          "1/2 cup pizza sauce",
+          "8 oz fresh mozzarella, sliced",
+          "2 tbsp olive oil",
+          "1/4 cup fresh basil leaves",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Preheat the oven to 500°F.\n2. Stretch the pizza dough to desired thickness and place it on a baking sheet or pizza stone.\n3. Spread the pizza sauce over the dough.\n4. Top with sliced mozzarella.\n5. Drizzle with olive oil and sprinkle with salt and pepper.\n6. Bake for 10-12 minutes, or until the crust is golden brown and the cheese is melted.\n7. Top with fresh basil leaves and serve.",
+        "rating": 4.9
+      },
+      {
+        "id": 6,
+        "recipe_picture": "https://example.com/recipe6_picture.jpg",
+        "recipe_name": "Spinach and Feta Stuffed Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1 cup spinach leaves",
+          "1/2 cup crumbled feta cheese",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Preheat the oven to 375°F.\n2. Using a sharp knife, cut a pocket in each chicken breast.\n3. In a bowl, combine the spinach and feta cheese. Season with salt and pepper.\n4. Stuff each chicken breast with the spinach and feta mixture.\n5. Heat the olive oil in a large skillet over medium-high heat. Add the chicken breasts and cook for 2-3 minutes on each side, or until browned.\n6. Transfer the chicken breasts to a baking dish and bake for 20-25 minutes, or until cooked through.\n7. Serve hot.",
+        "rating": 4.6
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,8 +126,67 @@
     "chef_name": "Fatima Al-Majid",
     "years_of_experience": 12,
     "likes": 3000,
-    "rating": 4.8,
-    "number_of_recipes": 90
+    "rating": 3.5,
+    "number_of_recipes": 90,
+    "recipe": [
+      {
+        "id": 7,
+        "recipe_picture": "https://example.com/recipe7_picture.jpg",
+        "recipe_name": "Beef Stir-Fry",
+        "ingredients": [
+          "1 lb flank steak, sliced",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 onion, sliced",
+          "1 cup snow peas",
+          "3 cloves garlic, minced",
+          "2 tbsp soy sauce",
+          "2 tbsp oyster sauce",
+          "1 tbsp cornstarch",
+          "2 tbsp vegetable oil"
+        ],
+        "cooking_method": "1. In a bowl, whisk together the soy sauce, oyster sauce, cornstarch, and 1/4 cup of water. Set aside.\n2. Heat the vegetable oil in a large skillet or wok over high heat.\n3. Add the sliced beef to the skillet and cook for 2-3 minutes, or until browned. Remove the beef from the skillet and set aside.\n4. Add the sliced peppers, onion, snow peas, and garlic to the skillet. Cook for 3-4 minutes, or until the vegetables are tender-crisp.\n5. Return the beef to the skillet.\n6. Pour the soy sauce mixture over the beef and vegetables. Stir to combine.\n7. Cook for an additional 1-2 minutes, or until the sauce has thickened.\n8. Serve hot with rice or noodles.",
+        "rating": 4.3
+      },
+      {
+        "id": 8,
+        "recipe_picture": "https://example.com/recipe8_picture.jpg",
+        "recipe_name": "Blueberry Muffins",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "2 tsp baking powder",
+          "1/4 tsp baking soda",
+          "1/4 tsp salt",
+          "1/2 cup unsalted butter, softened",
+          "1 cup granulated sugar",
+          "2 large eggs",
+          "1 tsp vanilla extract",
+          "1/2 cup milk",
+          "1 1/2 cups fresh blueberries"
+        ],
+        "cooking_method": "1. Preheat the oven to 375°F. Line a muffin tin with paper liners.\n2. In a bowl, whisk together the flour, baking powder, baking soda, and salt. Set aside.\n3. In a separate bowl, cream together the butter and sugar until light and fluffy.\n4. Beat in the eggs, one at a time.\n5. Stir in the vanilla extract.\n6. Gradually mix in the dry ingredients, alternating with the milk, until fully combined.\n7. Fold in the blueberries.\n8. Divide the batter evenly among the muffin cups.\n9. Bake for 20-25 minutes, or until a toothpick inserted into the center of a muffin comes out clean.\n10. Let the muffins cool for 5 minutes before transferring them to a wire rack to cool completely.",
+        "rating": 4.7
+      },
+      {
+        "id": 9,
+        "recipe_picture": "https://example.com/recipe9_picture.jpg",
+        "recipe_name": "Shrimp and Broccoli Stir-Fry",
+        "ingredients": [
+          "1 lb medium shrimp, peeled and deveined",
+          "1 head broccoli, cut into florets",
+          "1 red bell pepper, sliced",
+          "1/4 cup soy sauce",
+          "2 tbsp honey",
+          "1 tbsp cornstarch",
+          "1 tsp sesame oil",
+          "3 cloves garlic, minced",
+          "2 tbsp vegetable oil",
+          "2 tbsp water"
+        ],
+        "cooking_method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, sesame oil, and water. Set aside.\n2. Heat the vegetable oil in a large skillet or wok over high heat.\n3. Add the broccoli florets and sliced red bell pepper to the skillet. Cook for 3-4 minutes, or until the vegetables are tender-crisp. Remove the vegetables from the skillet and set aside.\n4. Add the shrimp to the skillet and cook for 2-3 minutes, or until pink and cooked through.\n5. Add the minced garlic to the skillet and cook for 1-2 minutes, or until fragrant.\n6. Return the vegetables to the skillet.\n7. Pour the soy sauce mixture over the shrimp and vegetables. Stir to combine.\n8. Cook for an additional 1-2 minutes, or until the sauce has thickened.\n9. Serve hot with rice.",
+        "rating": 4.5
+      }
+    ]
   },
   {
     "id": 4,
@@ -33,8 +194,60 @@
     "chef_name": "Abdullahi Ali",
     "years_of_experience": 7,
     "likes": 1200,
-    "rating": 4.1,
-    "number_of_recipes": 50
+    "rating": 3,
+    "number_of_recipes": 50,
+    "recipe": [
+      {
+        "id": 10,
+        "recipe_picture": "https://example.com/recipe10_picture.jpg",
+        "recipe_name": "Classic Margherita Pizza",
+        "ingredients": [
+          "1 lb pizza dough",
+          "1/2 cup tomato sauce",
+          "8 oz fresh mozzarella, sliced",
+          "1/4 cup fresh basil leaves, torn",
+          "2 tbsp olive oil",
+          "1 clove garlic, minced",
+          "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Preheat your oven to 500°F.\n2. On a lightly floured surface, roll out the pizza dough into a circle.\n3. Transfer the dough to a lightly oiled pizza pan or baking sheet.\n4. Spread the tomato sauce over the pizza dough.\n5. Arrange the sliced mozzarella over the sauce.\n6. Drizzle the olive oil over the pizza.\n7. Sprinkle the minced garlic over the pizza.\n8. Season with salt and pepper.\n9. Bake for 10-12 minutes, or until the crust is golden and the cheese is melted and bubbly.\n10. Remove from the oven and sprinkle with fresh torn basil leaves.\n11. Slice and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "id": 11,
+        "recipe_picture": "https://example.com/recipe11_picture.jpg",
+        "recipe_name": "Homemade Chocolate Chip Cookies",
+        "ingredients": [
+          "2 1/4 cups all-purpose flour",
+          "1 tsp baking soda",
+          "1 tsp salt",
+          "1 cup unsalted butter, at room temperature",
+          "3/4 cup white granulated sugar",
+          "3/4 cup brown sugar",
+          "2 large eggs",
+          "2 tsp vanilla extract",
+          "2 cups semisweet chocolate chips"
+        ],
+        "cooking_method": "1. Preheat your oven to 375°F.\n2. In a medium bowl, whisk together the flour, baking soda, and salt.\n3. In a large bowl, beat the butter, white sugar, and brown sugar until light and fluffy.\n4. Beat in the eggs, one at a time.\n5. Stir in the vanilla extract.\n6. Gradually stir in the flour mixture until just combined.\n7. Fold in the chocolate chips.\n8. Drop the dough by rounded tablespoons onto ungreased cookie sheets.\n9. Bake for 8-10 minutes, or until the cookies are lightly golden brown.\n10. Remove from the oven and let cool on the cookie sheets for 5 minutes.\n11. Transfer the cookies to wire racks to cool completely.\n12. Serve and enjoy!",
+        "rating": 4.9
+      },
+      {
+        "id": 12,
+        "recipe_picture": "https://example.com/recipe12_picture.jpg",
+        "recipe_name": "Pesto Pasta Salad",
+        "ingredients": [
+          "1 lb fusilli pasta",
+          "1 cup pesto",
+          "1 pint cherry tomatoes, halved",
+          "1/2 cup kalamata olives, pitted and sliced",
+          "1/2 cup red onion, diced",
+          "1/2 cup crumbled feta cheese",
+          "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Cook the pasta according to package instructions until al dente.\n2. Drain the pasta and rinse under cold water.\n3. In a large bowl, mix together the cooked pasta and pesto until well combined.\n4. Add the halved cherry tomatoes, sliced kalamata olives, and diced red onion to the bowl. Toss to combine.\n5. Season with salt and pepper, to taste.\n6. Chill the pasta salad in the refrigerator for at least 30 minutes.\n7. When ready to serve, sprinkle the crumbled feta cheese over the top of the pasta salad.\n8. Serve and enjoy!",
+        "rating": 4.3
+      }
+    ]
   },
   {
     "id": 5,
@@ -42,8 +255,67 @@
     "chef_name": "Kadija Toure",
     "years_of_experience": 15,
     "likes": 4500,
-    "rating": 4.9,
-    "number_of_recipes": 100
+    "rating": 5,
+    "number_of_recipes": 100,
+    "recipe": [
+      {
+        "id": 13,
+        "recipe_picture": "https://example.com/recipe13_picture.jpg",
+        "recipe_name": "Slow Cooker Beef Stew",
+        "ingredients": [
+          "2 lbs beef chuck, cut into 1-inch cubes",
+          "1/4 cup all-purpose flour",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "1 tsp paprika",
+          "1 tsp dried thyme",
+          "2 tbsp olive oil",
+          "1 onion, chopped",
+          "3 cloves garlic, minced",
+          "2 cups beef broth",
+          "2 cups carrots, chopped",
+          "2 cups potatoes, chopped",
+          "1 cup frozen peas"
+        ],
+        "cooking_method": "1. In a large bowl, mix together the flour, salt, black pepper, paprika, and thyme.\n2. Add the beef cubes to the bowl and toss to coat evenly.\n3. Heat the olive oil in a large skillet over medium-high heat.\n4. Add the beef cubes and cook until browned on all sides.\n5. Transfer the beef to a slow cooker.\n6. Add the chopped onion and minced garlic to the skillet and cook until softened.\n7. Transfer the onion and garlic to the slow cooker.\n8. Pour the beef broth into the slow cooker.\n9. Add the chopped carrots and potatoes to the slow cooker.\n10. Stir to combine all ingredients.\n11. Cover and cook on low for 8 hours.\n12. Stir in the frozen peas during the last 10 minutes of cooking.\n13. Season with additional salt and black pepper, to taste.\n14. Serve and enjoy!",
+        "rating": 4.5
+      },
+      {
+        "id": 14,
+        "recipe_picture": "https://example.com/recipe14_picture.jpg",
+        "recipe_name": "Grilled Lemon Garlic Shrimp",
+        "ingredients": [
+          "1 lb jumbo shrimp, peeled and deveined",
+          "2 tbsp olive oil",
+          "3 cloves garlic, minced",
+          "2 tbsp fresh lemon juice",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "1/4 cup fresh parsley leaves, chopped"
+        ],
+        "cooking_method": "1. Preheat your grill to medium-high heat.\n2. In a large bowl, whisk together the olive oil, minced garlic, fresh lemon juice, salt, and black pepper.\n3. Add the jumbo shrimp to the bowl and toss to coat evenly.\n4. Thread the shrimp onto skewers.\n5. Grill the shrimp skewers for 2-3 minutes on each side, or until cooked through and lightly charred.\n6. Remove the shrimp skewers from the grill and sprinkle with fresh chopped parsley.\n7. Serve and enjoy!",
+        "rating": 4.7
+      },
+      {
+        "id": 15,
+        "recipe_picture": "https://example.com/recipe15_picture.jpg",
+        "recipe_name": "Beef and Broccoli Stir-Fry",
+        "ingredients": [
+          "1 lb beef sirloin, sliced thinly against the grain",
+          "1/4 cup soy sauce",
+          "2 tbsp cornstarch",
+          "1 tbsp brown sugar",
+          "1 tsp ground ginger",
+          "2 tbsp vegetable oil",
+          "4 cloves garlic, minced",
+          "1 head broccoli, chopped into florets",
+          "1 red bell pepper, sliced",
+          "1/4 cup beef broth"
+        ],
+        "cooking_method": "1. In a small bowl, whisk together the soy sauce, cornstarch, brown sugar, and ground ginger.\n2. Add the sliced beef to the bowl and toss to coat evenly.\n3. Heat the vegetable oil in a wok or large skillet over high heat.\n4. Add the minced garlic and cook for 30 seconds, or until fragrant.\n5. Add the beef to the wok and stir-fry for 2-3 minutes, or until browned.\n6. Remove the beef from the wok and set aside.\n7. Add the chopped broccoli and sliced red bell pepper to the wok and stir-fry for 2-3 minutes, or until tender-crisp.\n8. Add the beef back to the wok.\n9. Pour the beef broth into the wok and stir to combine all ingredients.\n10. Cook for an additional 1-2 minutes, or until the sauce has thickened.\n11. Serve over steamed rice and enjoy!",
+        "rating": 4.2
+      }
+    ]
   },
   {
     "id": 6,
@@ -51,7 +323,64 @@
     "chef_name": "Bakari Mbeki",
     "years_of_experience": 9,
     "likes": 1800,
-    "rating": 4.3,
-    "number_of_recipes": 70
+    "rating": 3.5,
+    "number_of_recipes": 70,
+    "recipe": [
+      {
+        "id": 16,
+        "recipe_picture": "https://example.com/recipe16_picture.jpg",
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "12 oz spaghetti",
+          "4 slices bacon, chopped",
+          "2 cloves garlic, minced",
+          "1/2 cup grated Parmesan cheese",
+          "2 large eggs",
+          "Salt and black pepper, to taste",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "cooking_method": "1. Cook the spaghetti in a large pot of boiling salted water until al dente.\n2. Meanwhile, cook the chopped bacon in a large skillet over medium heat until crispy.\n3. Add the minced garlic and cook for 1-2 minutes, or until fragrant.\n4. In a small bowl, whisk together the grated Parmesan cheese and eggs.\n5. Drain the cooked spaghetti and add it to the skillet with the bacon and garlic.\n6. Remove the skillet from the heat and add the Parmesan-egg mixture.\n7. Toss the spaghetti with the egg mixture until coated.\n8. Season with salt and black pepper, to taste.\n9. Garnish with chopped fresh parsley and serve immediately.",
+        "rating": 4.5
+      },
+      {
+        "id": 17,
+        "recipe_picture": "https://example.com/recipe17_picture.jpg",
+        "recipe_name": "Chicken Pot Pie",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breasts, cubed",
+          "2 tbsp olive oil",
+          "1 large onion, chopped",
+          "2 cloves garlic, minced",
+          "2 cups mixed vegetables (peas, carrots, green beans, corn)",
+          "1/4 cup all-purpose flour",
+          "1/4 tsp dried thyme",
+          "1/4 tsp dried sage",
+          "1 1/4 cups chicken broth",
+          "1/2 cup milk",
+          "1 refrigerated pie crust"
+        ],
+        "cooking_method": "1. Preheat oven to 400°F (200°C).\n2. In a large skillet, heat olive oil over medium heat. Add onion and garlic, and sauté for 3-5 minutes, until onions are translucent.\n3. Add cubed chicken to the skillet and sauté until browned on all sides.\n4. Add mixed vegetables, flour, thyme, and sage to the skillet, and stir to combine.\n5. Gradually stir in chicken broth and milk. Simmer for 5-7 minutes, until sauce has thickened.\n6. Pour chicken mixture into a 9-inch pie dish.\n7. Roll out the pie crust on a lightly floured surface and place on top of the chicken mixture, pressing the edges to seal.\n8. Cut several slits in the top of the pie crust to allow steam to escape.\n9. Bake for 30-35 minutes, or until the crust is golden brown and the filling is hot and bubbly.\n10. Let cool for a few minutes before serving.",
+        "rating": 4.8
+      },
+      {
+        "id": 18,
+        "recipe_picture": "https://example.com/recipe18_picture.jpg",
+        "recipe_name": "Banana Bread",
+        "ingredients": [
+          "1/2 cup unsalted butter, softened",
+          "1 cup granulated sugar",
+          "2 large eggs",
+          "3 ripe bananas, mashed",
+          "1 tsp vanilla extract",
+          "1 tsp baking soda",
+          "1/2 tsp salt",
+          "1/2 tsp ground cinnamon",
+          "1 1/2 cups all-purpose flour",
+          "1/2 cup chopped walnuts (optional)"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F (175°C). Grease a 9x5-inch loaf pan.\n2. In a large mixing bowl, cream together softened butter and granulated sugar until light and fluffy.\n3. Beat in eggs, one at a time, then stir in mashed bananas and vanilla extract.\n4. In a separate mixing bowl, whisk together baking soda, salt, cinnamon, and all-purpose flour.\n5. Gradually add the dry ingredients to the banana mixture, stirring until just combined.\n6. Stir in chopped walnuts, if using.\n7. Pour the batter into the prepared loaf pan.\n8. Bake for 60-65 minutes, or until a toothpick inserted into the center of the bread comes out clean.\n9. Let the bread cool in the pan for 10 minutes before transferring it to a wire rack to cool completely.",
+        "rating": 4.9
+      }
+    ]
   }
 ]
