@@ -8,6 +8,12 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.send(chefData);
 });
+app.get("/recipe/:id", (req, res) => {
+  const id = req.params.id;
+  console.log(id);
+  const selectedChef = chefData.find(chef => chef.id == id);
+  res.send(selectedChef);
+});
 app.listen(port, () => {
   console.log(`server is running on port"&{port}`);
 });

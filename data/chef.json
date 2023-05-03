@@ -11,7 +11,7 @@
     "recipe": [
       {
         "id": 1,
-        "recipe_picture": "https://example.com/recipe1_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/J76F0XZ2/edgar-castrejon-4-Q-xl-BOa-Cso-unsplash.jpg",
         "recipe_name": "Chicken Alfredo",
         "ingredients": [
           "8 oz fettuccine",
@@ -27,7 +27,7 @@
       },
       {
         "id": 2,
-        "recipe_picture": "https://example.com/recipe2_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/KY1Wn8b5/food-photographer-jennifer-pallian-8p-Ujh-Bm4c-Lw-unsplash.jpg",
         "recipe_name": "Beef Stir Fry",
         "ingredients": [
           "1 lb flank steak, thinly sliced",
@@ -47,7 +47,7 @@
       },
       {
         "id": 3,
-        "recipe_picture": "https://example.com/recipe3_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/Wpyx1rP1/pexels-cats-coming-1359326.jpg",
         "recipe_name": "Roasted Salmon with Vegetables",
         "ingredients": [
           "4 salmon fillets",
@@ -73,7 +73,7 @@
     "recipe": [
       {
         "id": 4,
-        "recipe_picture": "https://example.com/recipe4_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/gcDcrg2H/pexels-geraud-pfeiffer-6608617.jpg",
         "recipe_name": "Vegetable Curry",
         "ingredients": [
           "1 onion, chopped",
@@ -91,7 +91,7 @@
       },
       {
         "id": 5,
-        "recipe_picture": "https://example.com/recipe5_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/hjJSwnBD/pexels-i-clal-apo-lu-cinal-14891726.jpg",
         "recipe_name": "Classic Margherita Pizza",
         "ingredients": [
           "1 lb pizza dough",
@@ -106,7 +106,7 @@
       },
       {
         "id": 6,
-        "recipe_picture": "https://example.com/recipe6_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/9FPcs1v7/pexels-ismail-o-ukav-14836453.jpg",
         "recipe_name": "Spinach and Feta Stuffed Chicken",
         "ingredients": [
           "4 boneless, skinless chicken breasts",
@@ -131,7 +131,7 @@
     "recipe": [
       {
         "id": 7,
-        "recipe_picture": "https://example.com/recipe7_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/vTFdN6hh/pexels-jan-n-g-u-y-e-n-699953.jpg",
         "recipe_name": "Beef Stir-Fry",
         "ingredients": [
           "1 lb flank steak, sliced",
@@ -150,7 +150,7 @@
       },
       {
         "id": 8,
-        "recipe_picture": "https://example.com/recipe8_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/V6txnkwC/pexels-julie-aagaard-2097090.jpg",
         "recipe_name": "Blueberry Muffins",
         "ingredients": [
           "2 cups all-purpose flour",
@@ -169,7 +169,7 @@
       },
       {
         "id": 9,
-        "recipe_picture": "https://example.com/recipe9_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/VsqyNvDy/pexels-katerina-holmes-5907901.jpg",
         "recipe_name": "Shrimp and Broccoli Stir-Fry",
         "ingredients": [
           "1 lb medium shrimp, peeled and deveined",
@@ -199,7 +199,7 @@
     "recipe": [
       {
         "id": 10,
-        "recipe_picture": "https://example.com/recipe10_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/T2qS6S3f/pexels-marianna-3843225.jpg",
         "recipe_name": "Classic Margherita Pizza",
         "ingredients": [
           "1 lb pizza dough",
@@ -215,7 +215,7 @@
       },
       {
         "id": 11,
-        "recipe_picture": "https://example.com/recipe11_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/vmVqS2KR/pexels-maria-orlova-4946547.jpg",
         "recipe_name": "Homemade Chocolate Chip Cookies",
         "ingredients": [
           "2 1/4 cups all-purpose flour",
@@ -233,7 +233,7 @@
       },
       {
         "id": 12,
-        "recipe_picture": "https://example.com/recipe12_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/wv9XcW8Q/pexels-marina-leonova-9465855.jpg",
         "recipe_name": "Pesto Pasta Salad",
         "ingredients": [
           "1 lb fusilli pasta",
@@ -260,7 +260,7 @@
     "recipe": [
       {
         "id": 13,
-        "recipe_picture": "https://example.com/recipe13_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/44L6Vb8p/pexels-nadin-sh-14866633.jpg",
         "recipe_name": "Slow Cooker Beef Stew",
         "ingredients": [
           "2 lbs beef chuck, cut into 1-inch cubes",
@@ -282,7 +282,7 @@
       },
       {
         "id": 14,
-        "recipe_picture": "https://example.com/recipe14_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/FHtJVP0k/pexels-nicola-barts-7937520.jpg",
         "recipe_name": "Grilled Lemon Garlic Shrimp",
         "ingredients": [
           "1 lb jumbo shrimp, peeled and deveined",
@@ -298,7 +298,7 @@
       },
       {
         "id": 15,
-        "recipe_picture": "https://example.com/recipe15_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/CKh5c955/pexels-olesia-lebedenko-14870606.jpg",
         "recipe_name": "Beef and Broccoli Stir-Fry",
         "ingredients": [
           "1 lb beef sirloin, sliced thinly against the grain",
@@ -328,7 +328,7 @@
     "recipe": [
       {
         "id": 16,
-        "recipe_picture": "https://example.com/recipe16_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/QtPQ7csX/pexels-rajesh-tp-1624487.jpg",
         "recipe_name": "Spaghetti Carbonara",
         "ingredients": [
           "12 oz spaghetti",
@@ -344,7 +344,7 @@
       },
       {
         "id": 17,
-        "recipe_picture": "https://example.com/recipe17_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/JzqjqfmY/pexels-terrance-barksdale-14911487.jpg",
         "recipe_name": "Chicken Pot Pie",
         "ingredients": [
           "1 lb boneless, skinless chicken breasts, cubed",
@@ -364,7 +364,7 @@
       },
       {
         "id": 18,
-        "recipe_picture": "https://example.com/recipe18_picture.jpg",
+        "recipe_picture": "https://i.postimg.cc/W4xz68Df/pexels-tim-douglas-6210848.jpg",
         "recipe_name": "Banana Bread",
         "ingredients": [
           "1/2 cup unsalted butter, softened",
