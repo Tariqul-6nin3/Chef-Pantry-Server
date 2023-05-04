@@ -1,12 +1,13 @@
 [
   {
     "id": 1,
-    "chef_picture": "https://i.postimg.cc/0yxT9mJV/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "chef_picture": "https://i.postimg.cc/XJ5mwCQK/pexels-sides-imagery-3351927.jpg",
     "chef_name": "Amina Ibrahim",
     "chef_quality": "",
     "years_of_experience": 10,
     "likes": 2300,
     "rating": 4.5,
+    "chef_about": "Passionate chef with a flair for Middle Eastern and African fusion cuisine.",
     "number_of_recipes": 75,
     "recipe": [
       {
@@ -64,11 +65,12 @@
   },
   {
     "id": 2,
-    "chef_picture": "https://i.postimg.cc/0yxT9mJV/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "chef_picture": "https://i.postimg.cc/pTk8c0GP/pexels-2102934.jpg",
     "chef_name": "Kwame Nkrumah",
     "years_of_experience": 8,
     "likes": 1500,
     "rating": 4,
+    "chef_about": "Innovative chef with a focus on bold, spicy flavors and unique ingredient combinations",
     "number_of_recipes": 60,
     "recipe": [
       {
@@ -122,11 +124,12 @@
   },
   {
     "id": 3,
-    "chef_picture": "https://i.postimg.cc/0yxT9mJV/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "chef_picture": "https://i.postimg.cc/mgDb7mMQ/pexels-andrea-piacquadio-3771120.jpg",
     "chef_name": "Fatima Al-Majid",
     "years_of_experience": 12,
     "likes": 3000,
     "rating": 3.5,
+    "chef_about": "Versatile chef with a talent for both traditional and modern dishes from the Mediterranean region",
     "number_of_recipes": 90,
     "recipe": [
       {
@@ -190,11 +193,12 @@
   },
   {
     "id": 4,
-    "chef_picture": "https://i.postimg.cc/0yxT9mJV/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "chef_picture": "https://i.postimg.cc/tCg0cYTb/pexels-cottonbro-studio-4253302.jpg",
     "chef_name": "Abdullahi Ali",
     "years_of_experience": 7,
     "likes": 1200,
     "rating": 3,
+    "chef_about": "Specializes in hearty, comforting meals with a focus on rustic, home-style cooking.",
     "number_of_recipes": 50,
     "recipe": [
       {
@@ -256,6 +260,7 @@
     "years_of_experience": 15,
     "likes": 4500,
     "rating": 5,
+    "chef_about": "Expert in West African cuisine, known for bold flavors, vibrant colors, and unique spice blends",
     "number_of_recipes": 100,
     "recipe": [
       {
@@ -319,11 +324,12 @@
   },
   {
     "id": 6,
-    "chef_picture": "https://i.postimg.cc/0yxT9mJV/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "chef_picture": "https://i.postimg.cc/y6thMG6N/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
     "chef_name": "Bakari Mbeki",
     "years_of_experience": 9,
     "likes": 1800,
     "rating": 3.5,
+    "chef_about": "Celebrated chef with a passion for creating modern, sophisticated dishes inspired by his African roots",
     "number_of_recipes": 70,
     "recipe": [
       {
